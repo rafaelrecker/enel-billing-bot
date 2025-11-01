@@ -31,9 +31,9 @@ Ele acessa o site, realiza login com dados pré-configurados, solicita o envio d
 
 ### 1️⃣ Instale as dependências
 No terminal, execute:
-```bash
+
 pip install selenium undetected-chromedriver pyautogui
-2️⃣ Estrutura de pastas esperada
+### 2️⃣ Estrutura de pastas esperada
 mathematica
 Copiar código
 Documents/
@@ -42,7 +42,7 @@ Documents/
  │   └── Unidade Consumidora Usina.txt  ← Lista de unidades consumidoras
  └── Enel.py  ← Script principal
 
-3️⃣ Formato do arquivo de unidades
+### 3️⃣ Formato do arquivo de unidades
 O arquivo Unidade Consumidora Usina.txt deve seguir o formato:
 yaml
 Copiar código
@@ -51,7 +51,7 @@ nome da unidade consumidora 2: codigo da unidade consumidora 2
 nome da unidade consumidora 3: codigo da unidade consumidora 3
 ...
 
-4️⃣ Executar o script
+### 4️⃣ Executar o script
 No terminal:
 bash
 Copiar código
