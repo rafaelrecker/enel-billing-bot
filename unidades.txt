@@ -1,0 +1,6 @@
+Arquivo modelo para que seja preenchido o CNPJ da empresa e os nomes/números das unidades consumidoras.
+
+CNPJ:00.000.000/000-00
+
+Casa do João:0000000
+Apartamento Teste:12121212
